@@ -6,7 +6,7 @@ Das ursprüngliche Kursprojekt entstand im Team. Die Python-Implementierung habe
 
 ## Diese öffentliche Fassung
 
-Die Demo wurde für eine sichere Veröffentlichung auf den Kern der Idee reduziert. Sie nutzt zwei lokale Beispielprofile (`A` und `B`), eine SQLite-Datenbank und sechs **frei erfundene** Filmtitel. Die ursprüngliche Datenbank mit Konten, Passwörtern, Bewertungen und einem externen Filmkatalog wurde nicht übernommen. Es gibt keine Anmeldung und keinen Online-Dienst.
+Die öffentliche CLI-Demo wurde aus Datenschutzgründen auf den Kern der Idee reduziert und neu aufgebaut; sie ist keine unveränderte Kopie des damaligen Codes. Sie nutzt zwei lokale Beispielprofile (`A` und `B`), eine SQLite-Datenbank und sechs **frei erfundene** Filmtitel. Die ursprüngliche Datenbank mit Konten, Passwörtern, Bewertungen und einem externen Filmkatalog wurde nicht übernommen. Es gibt keine Anmeldung und keinen Online-Dienst.
 
 ```sh
 python moviecoach.py init
